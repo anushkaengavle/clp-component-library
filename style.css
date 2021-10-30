@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@1,300;1,500&display=swap');
+
+body{
+    font-family: 'Merriweather',sans-serif;
+}
+
+.main-heading{
+    color: red;
+}
+
+.sec-heading{
+    font-style: italic;
+}
+
+#fluid-container{
+    font-weight: 500;
+}
+
+
+
